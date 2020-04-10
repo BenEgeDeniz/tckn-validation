@@ -8,14 +8,14 @@ This PHP validation class cheks that if the T.C citizen number is valid.
 
 ## Usage
 ```php
-    	<?php
+<?php
 		
-	require "tckn.class.php";
-	$tckn = new TCKN;
+require "tckn.class.php";
+$tckn = new TCKN;
 	
-	$result = $tckn->tcknValidate("tckn", "name", "surname", "birth_year"); // Returns "true" if valid. Else returns false.
+$result = $tckn->tcknValidate("tckn", "name", "surname", "birth_year"); // Returns "true" if valid. Else returns false.
 	
-	?>
+?>
 ```
 ## License
 
