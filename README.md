@@ -1,5 +1,5 @@
 # PHP TCKN Validation Class
-This PHP validation class cheks that if the T.C citizen number is valid.
+This PHP validation class checks that if the T.C citizen number is valid.
 
 ## Requirements
 
