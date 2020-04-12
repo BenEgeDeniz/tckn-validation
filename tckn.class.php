@@ -4,7 +4,7 @@
 
  * TCKN Checker by TimberLock
  * Developer Website: https://benegedeniz.com
- * This class licensed with CC BY-NC-ND 4.0 (See https://creativecommons.org/licenses/by-nc-nd/4.0/)
+ * This class is licensed with CC BY-NC-ND 4.0 (See https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 */
 
